@@ -33,8 +33,8 @@
   },
 
   "storage": {
-    "type": "postgres",
-    "expire": 2592000
+    "path": "./data",
+    "type": "file"
   },
 
   "documents": {
